@@ -42,6 +42,7 @@ Other HR-related attributes used for analysis
 
 7. Screenshot
 dashboard preview: https://github.com/Honey-bandi/Employee-dashboard/blob/main/screenshot%20of%20dash%20board.png
+Dashboard preview: https://github.com/Honey-bandi/Employee-dashboard/blob/main/Screenshot%202026-08-11%20165005.png
    
 
 
